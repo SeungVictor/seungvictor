@@ -11,7 +11,9 @@
 - 한영회계법인 감사본부(2014.12~2016.04)
 
 ## 기술
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/r-276DC3?style=plastic&logo=r&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=plastic&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 <br>
