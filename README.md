@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=plastic&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Css-1572B6?style=plastic&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"> 
