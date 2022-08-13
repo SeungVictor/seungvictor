@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Synology-B5B5B6?style=plastic&logo=Synology&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white">
