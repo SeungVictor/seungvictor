@@ -15,6 +15,7 @@
 <br>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Postgre-4169E1?style=plastic&logo=Postgre&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
 <br>
